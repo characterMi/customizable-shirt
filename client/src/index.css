@@ -7,11 +7,15 @@
 
 html {
   font-family: "Inter", sans-serif;
-  overflow: hidden;
+  overflow-x: hidden;
 }
 
 body {
   zoom: 100%;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 @supports (font-variation-settings: normal) {
