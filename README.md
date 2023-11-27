@@ -1,4 +1,4 @@
-# 📱 3D Product website
+# 3D product website
 
 ### Many large corporations already use 3D graphics to showcase their products. this is what I've created with threeJs. You can change the color of the shirt with a color picker, you can even upload an image and use it for texture or full texture. this is my first project with threeJs and react-three-fiber, i hope you like it !
 
