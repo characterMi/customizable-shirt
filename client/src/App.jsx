@@ -1,6 +1,6 @@
-import Home from "./pages/Home"
-import Customizer from "./pages/Customizer"
-import CanvasModel from "./canvas"
+import Home from "./pages/Home";
+import Customizer from "./pages/Customizer";
+import CanvasModel from "./canvas";
 
 function App() {
   return (
@@ -11,7 +11,7 @@ function App() {
         <Customizer />
       </main>
     </>
-  )
+  );
 }
 
-export default App
+export default App;
